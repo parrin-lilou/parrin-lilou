@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Lilou 👋
 
-<!--
-**parrin-lilou/parrin-lilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & AI student at **ESIEE Paris**
+🔍 Looking for a **3-4 month internship** starting May 2027
+📍 France
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+- **Languages**: Python, SQL
+- **Data Science**: Pandas, NumPy, Matplotlib
+- **Deep Learning**: TensorFlow/Keras, PyTorch, CNN, Transfer Learning
+- **Tools**: Jupyter Notebook, Google Colab, Git
+
+**Featured Projects**
+- 🚦 [Road Sign Detection (CNN)](https://github.com/parrin-lilou/road-sign-detection-cnn) — Traffic sign classification on GTSRB, 96.77% test accuracy
+- 🎗️ [SeinTinelle](https://github.com/parrin-lilou/seintinelle-breast-cancer-detection) — Breast cancer detection & risk prediction web app (Flask, TensorFlow, PyTorch)
+
+**Let's connect**
+- [LinkedIn](https://www.linkedin.com/in/parrin-lilou)
