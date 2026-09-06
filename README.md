@@ -1,8 +1,8 @@
 ### Hi, I'm Lilou 👋
 
-🎓 Data Science & AI student at **ESIEE Paris**
-🔍 Looking for a **3-4 month internship** starting May 2027
-📍 France
+Data Science & AI student at **ESIEE Paris**
+Looking for a **3-4 month internship** starting May 2027
+France
 
 ---
 
